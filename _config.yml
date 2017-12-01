@@ -41,7 +41,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: /img/champion128xlogo.png
+# title-img: /img/champion128xlogo.png
 
 # --- Background colour/image options --- #
 
@@ -88,12 +88,12 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
   telephone: false
   steam: false
