@@ -67,13 +67,13 @@ author:
   twitter: xsedecc   # eg. daattali
   # reddit: yourname    # eg. daattali
   # google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: https://www.linkedin.com/groups/6931807 # eg. daattali
+ E linkedin: https://www.linkedin.com/groups/6931807 # eg. daattali
  # xing: yourname      # eg. daattali
   # stackoverflow: yourlink  # eg. "3943160/daattali"
   # snapchat: yourname  # eg. daattali
   # instagram: yourname # eg. daattali
-  youtube: https://www.youtube.com/channel/UC2nXeO-F6fNGiN0GWsYfVVg/videos   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
+  youtube: channel/UC2nXeO-F6fNGiN0GWsYfVVg/videos   # eg. user/daattali or channel/daattali
+#  spotify: yourname   # eg. daattali
   # telephone: yourphone   # eg. +14159998888
   # steam: yourname     # eg. daattali
   # twitch: yourname    # eg. daattali
@@ -88,7 +88,7 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
