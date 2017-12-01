@@ -23,20 +23,25 @@ description: A Research Computing Community
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+ # About Me: "aboutme"
+ # Resources:
+ #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+ #   - Learn markdown: "http://www.markdowntutorial.com/"
+ #   - GitHub Pages: "https://pages.github.com/"
+ # Author's home: "http://deanattali.com"
+ About Champions:
+    - Champion Home:  "https://www.xsede.org/community-engagement/campus-champions"
+    - Current Champions: "https://www.xsede.org/web/site/community-engagement/campus-champions/current"
+    - Champions Leadership: "https://www.xsede.org/web/site/community-engagement/campus-champions/champion-leadership-team"
+    - Domain and Student Champions: "https://www.xsede.org/community-engagement/campus-champions/domain-and-student-champions"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/champion128xlogo.png"
+# avatar: "/img/champion128xlogo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img: /img/champion128xlogo.png
 
 # --- Background colour/image options --- #
 
